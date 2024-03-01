@@ -1,4 +1,21 @@
-.btn-all{
-    background-color: #E76F51;
-    color: white;
+.btn-all {
+  background-color: #e76f51;
+  color: white;
+}
+.btn:hover {
+  background-color: #f08266;
+  color: white;
+}
+.silder-control-button {
+  background-color: rgb(247, 112, 112);
+}
+.details {
+  color: #6c6c6c;
+  font-size: 16px;
+}
+.span-color {
+  color: #e76f51;
+}
+.rating-icon {
+  width: 20px;
 }
